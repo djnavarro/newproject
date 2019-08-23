@@ -1,0 +1,14 @@
+---
+title: "Project Documentation"
+author: "Danielle Navarro"
+date: "23/08/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+The "docs" folder on GitHub is special: if your project is set up to allow this, any files in this folder will appear as a GitHub Pages website. For example, this template is located at https://github.com/djnavarro/newproject, and because I have enabled GitHub pages for this project all the files in this folder are hosted at https://djnavarro.github.io/newproject
+
+More information [here](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages)
